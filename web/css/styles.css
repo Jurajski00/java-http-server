@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+h3 {
+    background-color: aqua;
+}
+
+p {
+    font-size: 5em;
+}
+
+#btn {
+    display: block;
+}
